@@ -1,0 +1,54 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1024
+PlayResY: 576
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lirik,Inter ExtraBold,38,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1.5,2,40,40,38,1
+Style: Judul,Inter ExtraBold,40,&H0000D7FF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1.5,2,40,40,70,1
+Style: Penyanyi,Inter SemiBold,28,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2.5,1.5,2,40,40,38,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:05.80,Judul,,0,0,0,,{\fad(400,400)}Layang-Layang
+Dialogue: 0,0:00:00.50,0:00:05.80,Penyanyi,,0,0,0,,{\fad(400,400)}Bagus Wirata
+Dialogue: 0,0:00:06.13,0:00:13.37,Lirik,,0,0,0,,{\fad(150,150)}Rasa rindu ne menggebu-gebu
+Dialogue: 0,0:00:13.39,0:00:20.83,Lirik,,0,0,0,,{\fad(150,150)}Be mekelo rage tusing ketemu
+Dialogue: 0,0:00:20.85,0:00:28.17,Lirik,,0,0,0,,{\fad(150,150)}Layang layang manis gula batu
+Dialogue: 0,0:00:28.19,0:00:35.76,Lirik,,0,0,0,,{\fad(150,150)}Nu terbayang manis kenyem kamu
+Dialogue: 0,0:00:40.19,0:00:47.32,Lirik,,0,0,0,,{\fad(150,150)}Buin pidan keh ngidang mecumbu
+Dialogue: 0,0:00:47.99,0:00:53.83,Lirik,,0,0,0,,{\fad(150,150)}Menumpahang sekancan rase rindu
+Dialogue: 0,0:00:53.85,0:01:00.83,Lirik,,0,0,0,,{\fad(150,150)}Layang-layang joh luas ke Jerman
+Dialogue: 0,0:01:00.85,0:01:08.88,Lirik,,0,0,0,,{\fad(150,150)}Nu terbayang dugas rage mediman
+Dialogue: 0,0:01:11.05,0:01:15.20,Lirik,,0,0,0,,{\fad(150,150)}Haaa
+Dialogue: 0,0:01:15.35,0:01:18.43,Lirik,,0,0,0,,{\fad(150,150)}Haaa
+Dialogue: 0,0:01:18.45,0:01:22.13,Lirik,,0,0,0,,{\fad(150,150)}Haaa
+Dialogue: 0,0:01:22.15,0:01:23.27,Lirik,,0,0,0,,{\fad(150,150)}Haaa
+Dialogue: 0,0:01:23.29,0:01:30.47,Lirik,,0,0,0,,{\fad(150,150)}Dugase ento adi ngorang sayang
+Dialogue: 0,0:01:30.49,0:01:37.83,Lirik,,0,0,0,,{\fad(150,150)}Tur nyambatang takut kehilangan
+Dialogue: 0,0:01:37.85,0:01:45.83,Lirik,,0,0,0,,{\fad(150,150)}Nanging ne jani mekejang melenan
+Dialogue: 0,0:01:45.85,0:01:52.80,Lirik,,0,0,0,,{\fad(150,150)}Ragan adi milih nak elenan
+Dialogue: 0,0:01:52.85,0:01:59.67,Lirik,,0,0,0,,{\fad(150,150)}Layang-layang mekeber mengindang
+Dialogue: 0,0:01:59.69,0:02:07.04,Lirik,,0,0,0,,{\fad(150,150)}Nanging sayang be ade ngelahang
+Dialogue: 0,0:02:37.49,0:02:44.18,Lirik,,0,0,0,,{\fad(150,150)}Buin pidan keh ngidang mecumbu
+Dialogue: 0,0:02:45.21,0:02:50.81,Lirik,,0,0,0,,{\fad(150,150)}Menumpahang sekancan rase rindu
+Dialogue: 0,0:02:50.83,0:02:57.81,Lirik,,0,0,0,,{\fad(150,150)}Layang-layang joh luas ke Jerman
+Dialogue: 0,0:02:57.83,0:03:06.08,Lirik,,0,0,0,,{\fad(150,150)}Nu terbayang dugas rage mediman
+Dialogue: 0,0:03:08.29,0:03:12.55,Lirik,,0,0,0,,{\fad(150,150)}Haaa
+Dialogue: 0,0:03:12.57,0:03:15.63,Lirik,,0,0,0,,{\fad(150,150)}Haaa
+Dialogue: 0,0:03:15.65,0:03:19.41,Lirik,,0,0,0,,{\fad(150,150)}Haaa
+Dialogue: 0,0:03:19.43,0:03:20.69,Lirik,,0,0,0,,{\fad(150,150)}Haaa
+Dialogue: 0,0:03:20.71,0:03:27.77,Lirik,,0,0,0,,{\fad(150,150)}Dugase ento adi ngorang sayang
+Dialogue: 0,0:03:27.79,0:03:35.19,Lirik,,0,0,0,,{\fad(150,150)}Tur nyambatang takut kehilangan
+Dialogue: 0,0:03:35.21,0:03:41.87,Lirik,,0,0,0,,{\fad(150,150)}Nanging ne jani mekejang melenan
+Dialogue: 0,0:03:41.89,0:03:50.19,Lirik,,0,0,0,,{\fad(150,150)}Ragan adi milih nak elenan
+Dialogue: 0,0:03:50.21,0:03:57.03,Lirik,,0,0,0,,{\fad(150,150)}Dugase ento adi ngorang sayang
+Dialogue: 0,0:03:57.05,0:04:04.03,Lirik,,0,0,0,,{\fad(150,150)}Tur nyambatang takut kehilangan
+Dialogue: 0,0:04:04.05,0:04:11.67,Lirik,,0,0,0,,{\fad(150,150)}Nanging ne jani mekejang melenan
+Dialogue: 0,0:04:11.69,0:04:19.03,Lirik,,0,0,0,,{\fad(150,150)}Ragan adi milih nak elenan
+Dialogue: 0,0:04:19.05,0:04:26.87,Lirik,,0,0,0,,{\fad(150,150)}Layang-layang mekeber mengindang
+Dialogue: 0,0:04:26.89,0:04:33.68,Lirik,,0,0,0,,{\fad(150,150)}Nanging sayang be ade ngelahang
+Dialogue: 0,0:04:33.93,0:04:40.55,Lirik,,0,0,0,,{\fad(150,150)}Layang-layang mekeber mengindang
+Dialogue: 0,0:04:40.57,0:04:48.32,Lirik,,0,0,0,,{\fad(150,150)}Nanging sayang be ade ngelahang
